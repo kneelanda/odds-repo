@@ -5,36 +5,30 @@ import json
 
 API_KEY = "29c6f90345f591ee9428c75b7bb1f4ff"
 
-sport = "americanfootball_nfl"
-
-url = "https://api.the-odds-api.com/v4/sports/"+sport+"/odds/?apiKey="+API_KEY+"&regions=us&markets=h2h&oddsFormat=american"
+def money_lines(sport):
+    url = "https://api.the-odds-api.com/v4/sports/"+sport+"/odds/?apiKey="+API_KEY+"&regions=us&markets=h2h&oddsFormat=american"
 #url syntax provided by https://the-odds-api.com/
-response = requests.get(url)
+    response = requests.get(url)
 #code adapted from web requests excercise in class
-
-response_lst = json.loads(response.text)
-
-response_df = pd.DataFrame(response_lst)
+    response_lst = json.loads(response.text)
+    response_df = pd.DataFrame(response_lst)
 #found above syntax at https://favtutor.com/blogs/list-to-dataframe-python
-
-bookmakers_lst = response_df["bookmakers"].head(5).tolist()
-
+    bookmakers_lst = response_df["bookmakers"].head(5).tolist()
 #bookmakers_lst.sort(key=itemgetter("last_update"))
 #sorted_list = sorted(bookmakers_lst, key=itemgetter("price"))
+    print("Moneyline for the Next "+str(len(bookmakers_lst))+" Games:")
+    print("     ")
+    for game in bookmakers_lst:
+        print("     ")
+        print("     ")
+        print("Game:",game[0]["markets"][0]["outcomes"][0]["name"],"versus",game[0]["markets"][0]["outcomes"][1]["name"])
+        print("Moneylines from All Bookmakers")
+        print("Number of Bookmakers:",len(game))
+        print("-----------------------")
+        for bookmaker in game:
+            print(bookmaker["markets"][0]["outcomes"][0]["name"],bookmaker["markets"][0]["outcomes"][0]["price"])
+            print(bookmaker["markets"][0]["outcomes"][1]["name"],bookmaker["markets"][0]["outcomes"][1]["price"])
+            print("Bookmaker:",bookmaker["title"])
+            print("              ")
 
-print("Moneyline for the Next "+str(len(bookmakers_lst))+" Games:")
-print("     ")
-
-for game in bookmakers_lst:
-  print("     ")
-  print("     ")
-  print("Game:",game[0]["markets"][0]["outcomes"][0]["name"],"versus",game[0]["markets"][0]["outcomes"][1]["name"])
-  print("Moneylines from All Bookmakers")
-  print("Number of Bookmakers:",len(game))
-  print("-----------------------")
-  
-  for bookmaker in game:
-    print(bookmaker["markets"][0]["outcomes"][0]["name"],bookmaker["markets"][0]["outcomes"][0]["price"])
-    print(bookmaker["markets"][0]["outcomes"][1]["name"],bookmaker["markets"][0]["outcomes"][1]["price"])
-    print("Bookmaker:",bookmaker["title"])
-    print("              ")
+money_lines("americanfootball_nfl")

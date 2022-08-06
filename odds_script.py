@@ -15,10 +15,16 @@ def money_lines(sport=None):
 #code adapted from web requests excercise in class
         response_lst = json.loads(response.text)
         response_df = pd.DataFrame(response_lst)
+        response_df_five = response_df.head(5)
 #found above syntax at https://favtutor.com/blogs/list-to-dataframe-python
-        bookmakers_lst = response_df["bookmakers"].head(5).tolist()
+        bookmakers_lst = response_df_five["bookmakers"].tolist()
         print("Moneyline for the Next "+str(len(bookmakers_lst))+" Games:")
         print("     ")
+        print("Game 1: Home",response_df_five["home_team"][0],"versus Away",response_df_five["away_team"][0],"-- Start Time in UTC:",response_df_five["commence_time"][0])
+        print("Game 2: Home",response_df_five["home_team"][1],"versus Away",response_df_five["away_team"][1],"-- Start Time in UTC:",response_df_five["commence_time"][1])
+        print("Game 3: Home",response_df_five["home_team"][2],"versus Away",response_df_five["away_team"][2],"-- Start Time in UTC:",response_df_five["commence_time"][2])
+        print("Game 4: Home",response_df_five["home_team"][3],"versus Away",response_df_five["away_team"][3],"-- Start Time in UTC:",response_df_five["commence_time"][3])
+        print("Game 5: Home",response_df_five["home_team"][4],"versus Away",response_df_five["away_team"][4],"-- Start Time in UTC:",response_df_five["commence_time"][4])
         for game in bookmakers_lst:
             print("     ")
             print("     ")

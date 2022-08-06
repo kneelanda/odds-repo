@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.express as px
 import requests
 import json
+from datetime import datetime
 
 API_KEY = "29c6f90345f591ee9428c75b7bb1f4ff"
 
@@ -15,15 +16,17 @@ def money_lines(sport=None):
 #code adapted from web requests excercise in class
         response_lst = json.loads(response.text)
         response_df_five  = pd.DataFrame(response_lst).head(5)
+        date_time_list = [datetime.strptime(time,'%Y-%m-%dT%H:%M:%SZ').date() for time in response_df_five["commence_time"]]
+        response_df_five["event_date"] = date_time_list
 #found above syntax at https://favtutor.com/blogs/list-to-dataframe-python
         bookmakers_lst = response_df_five["bookmakers"].tolist()
         print("Moneyline for the Next "+str(len(bookmakers_lst))+" Games:")
         print("     ")
-        print("Game 1: Home",response_df_five["home_team"][0],"versus Away",response_df_five["away_team"][0],"-- Start Time in UTC:",response_df_five["commence_time"][0])
-        print("Game 2: Home",response_df_five["home_team"][1],"versus Away",response_df_five["away_team"][1],"-- Start Time in UTC:",response_df_five["commence_time"][1])
-        print("Game 3: Home",response_df_five["home_team"][2],"versus Away",response_df_five["away_team"][2],"-- Start Time in UTC:",response_df_five["commence_time"][2])
-        print("Game 4: Home",response_df_five["home_team"][3],"versus Away",response_df_five["away_team"][3],"-- Start Time in UTC:",response_df_five["commence_time"][3])
-        print("Game 5: Home",response_df_five["home_team"][4],"versus Away",response_df_five["away_team"][4],"-- Start Time in UTC:",response_df_five["commence_time"][4])
+        print("Game 1: Home",response_df_five["home_team"][0],"versus Away",response_df_five["away_team"][0],"-- Event Date:",response_df_five["event_date"][0])
+        print("Game 2: Home",response_df_five["home_team"][1],"versus Away",response_df_five["away_team"][1],"-- Event Date:",response_df_five["event_date"][1])
+        print("Game 3: Home",response_df_five["home_team"][2],"versus Away",response_df_five["away_team"][2],"-- Event Date:",response_df_five["event_date"][2])
+        print("Game 4: Home",response_df_five["home_team"][3],"versus Away",response_df_five["away_team"][3],"-- Event Date:",response_df_five["event_date"][3])
+        print("Game 5: Home",response_df_five["home_team"][4],"versus Away",response_df_five["away_team"][4],"-- Event Date:",response_df_five["event_date"][4])
         for game in bookmakers_lst:
             print("     ")
             print("     ")
@@ -37,8 +40,10 @@ def money_lines(sport=None):
                 print("Bookmaker:",bookmaker["title"])
                 print("              ")
     except:
-        print("Sorry, that's not a valid sport. Please enter a major US sport and try again.")
+        print("Sorry, that's not a valid sport or there are no moneylines available. Please enter another major US sport and try again.")
 
 #americanfootball_nfl
+#basketball_nba
+#baseball_mlb
 sport = input("Please enter your sport:")
 money_lines(sport)

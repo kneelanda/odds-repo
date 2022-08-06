@@ -1,10 +1,7 @@
 import pandas as pd
-from pandas import read_csv
 import plotly.express as px
 import requests
 import json
-from IPython.display import display
-from operator import itemgetter
 
 API_KEY = "29c6f90345f591ee9428c75b7bb1f4ff"
 

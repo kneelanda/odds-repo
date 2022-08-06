@@ -5,7 +5,9 @@ import json
 
 API_KEY = "29c6f90345f591ee9428c75b7bb1f4ff"
 
-url = "https://api.the-odds-api.com/v4/sports/americanfootball_nfl/odds/?apiKey="+API_KEY+"&regions=us&markets=h2h&oddsFormat=american"
+sport = "americanfootball_nfl"
+
+url = "https://api.the-odds-api.com/v4/sports/"+sport+"/odds/?apiKey="+API_KEY+"&regions=us&markets=h2h&oddsFormat=american"
 #url syntax provided by https://the-odds-api.com/
 response = requests.get(url)
 #code adapted from web requests excercise in class
@@ -26,7 +28,8 @@ print("     ")
 for game in bookmakers_lst:
   print("     ")
   print("     ")
-  print("Moneyline - All Bookmakers")
+  print("Game:",game[0]["markets"][0]["outcomes"][0]["name"],"versus",game[0]["markets"][0]["outcomes"][1]["name"])
+  print("Moneylines from All Bookmakers")
   print("Number of Bookmakers:",len(game))
   print("-----------------------")
   

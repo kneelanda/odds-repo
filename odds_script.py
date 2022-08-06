@@ -14,8 +14,7 @@ def money_lines(sport=None):
         response = requests.get(url)
 #code adapted from web requests excercise in class
         response_lst = json.loads(response.text)
-        response_df = pd.DataFrame(response_lst)
-        response_df_five = response_df.head(5)
+        response_df_five  = pd.DataFrame(response_lst).head(5)
 #found above syntax at https://favtutor.com/blogs/list-to-dataframe-python
         bookmakers_lst = response_df_five["bookmakers"].tolist()
         print("Moneyline for the Next "+str(len(bookmakers_lst))+" Games:")

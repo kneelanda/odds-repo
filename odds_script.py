@@ -6,8 +6,9 @@ import json
 from IPython.display import display
 from operator import itemgetter
 
+API_KEY = "29c6f90345f591ee9428c75b7bb1f4ff"
 
-url = "https://api.the-odds-api.com/v4/sports/americanfootball_nfl/odds/?apiKey=29c6f90345f591ee9428c75b7bb1f4ff&regions=us&markets=h2h&oddsFormat=american"
+url = "https://api.the-odds-api.com/v4/sports/americanfootball_nfl/odds/?apiKey="+API_KEY+"&regions=us&markets=h2h&oddsFormat=american"
 #url syntax provided by https://the-odds-api.com/
 response = requests.get(url)
 #code adapted from web requests excercise in class

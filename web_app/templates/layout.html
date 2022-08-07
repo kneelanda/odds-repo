@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
+    </style>
+  <title>Show Me Da Money(line)</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/dataTables.bootstrap5.css">
+</head>
+<body>
+
+  <!-- SITE NAVIGATION -->
+  <div class="container">
+    <nav>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDlTXrDHtdvfSQPSGjWDzopXIifhSeIo6bKg&usqp=CAU" alt="Money">
+      <h1><b>Show Me Da Money(line)</b></h1>
+      <div class="navbar">
+        <form action="/home">
+          <button type="submit">Home</button>
+       </form>
+      <form action="/app/form">
+        <button type="submit">Run App</button>
+     </form>
+      
+    </nav>
+    <hr>
+
+    <!-- PAGE CONTENTS -->
+    <div class="container">
+      <h1>{{ title }}</h1>
+      {% block content %}{% endblock %}
+    <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/dataTables.bootstrap5.js"></script>
+
+    <!-- FOOTER -->
+    <footer>
+      <hr>
+      &copy; Copyright 2022 | NYU TECH 2335 | 
+      <a href="https://github.com/prof-rossetti/intro-to-python/blob/main/exercises/web-app/README.md">SOURCE: YODA</a> |
+      <a href="https://github.com/miguelgrinberg/flask-tables">SOURCE: Flask Tables</a>
+    </footer>
+  </div>
+
+</body>
+</html>

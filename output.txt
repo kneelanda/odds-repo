@@ -1,345 +1,173 @@
 Moneyline for the Next 5 Games:
      
-Game 1: Home Los Angeles Rams versus Away Buffalo Bills -- Start Time in UTC: 2022-09-09T00:20:00Z
-Game 2: Home Atlanta Falcons versus Away New Orleans Saints -- Start Time in UTC: 2022-09-11T17:00:00Z
-Game 3: Home New York Jets versus Away Baltimore Ravens -- Start Time in UTC: 2022-09-11T17:00:00Z
-Game 4: Home Carolina Panthers versus Away Cleveland Browns -- Start Time in UTC: 2022-09-11T17:00:00Z
-Game 5: Home Chicago Bears versus Away San Francisco 49ers -- Start Time in UTC: 2022-09-11T17:00:00Z
+Game 1: Home Detroit Tigers versus Away Tampa Bay Rays -- Event Date: 2022-08-06
+Game 2: Home Philadelphia Phillies versus Away Washington Nationals -- Event Date: 2022-08-06
+Game 3: Home Texas Rangers versus Away Chicago White Sox -- Event Date: 2022-08-06
+Game 4: Home Oakland Athletics versus Away San Francisco Giants -- Event Date: 2022-08-06
+Game 5: Home Kansas City Royals versus Away Boston Red Sox -- Event Date: 2022-08-06
      
      
-Game: Buffalo Bills versus Los Angeles Rams
+Game: Detroit Tigers versus Tampa Bay Rays
 Moneylines from All Bookmakers
-Number of Bookmakers: 16
+Number of Bookmakers: 3
 -----------------------
-Buffalo Bills -137
-Los Angeles Rams 112
-Bookmaker: Unibet
-              
-Buffalo Bills -126
-Los Angeles Rams 108
-Bookmaker: FanDuel
-              
-Buffalo Bills -137
-Los Angeles Rams 112
-Bookmaker: SugarHouse
-              
-Buffalo Bills -137
-Los Angeles Rams 112
-Bookmaker: Barstool Sportsbook
-              
-Buffalo Bills -137
-Los Angeles Rams 112
-Bookmaker: BetRivers
-              
-Buffalo Bills -135
-Los Angeles Rams 115
-Bookmaker: William Hill (US)
-              
-Buffalo Bills -135
-Los Angeles Rams 115
-Bookmaker: DraftKings
-              
-Buffalo Bills -130
-Los Angeles Rams 110
-Bookmaker: BetUS
-              
-Buffalo Bills -130
-Los Angeles Rams 110
-Bookmaker: GTbets
-              
-Buffalo Bills -120
-Los Angeles Rams 100
-Bookmaker: WynnBET
-              
-Buffalo Bills -131
-Los Angeles Rams 108
-Bookmaker: MyBookie.ag
-              
-Buffalo Bills -136
-Los Angeles Rams 115
-Bookmaker: PointsBet (US)
-              
-Buffalo Bills -133
-Los Angeles Rams 115
-Bookmaker: FOX Bet
-              
-Buffalo Bills -130
-Los Angeles Rams 110
-Bookmaker: BetMGM
-              
-Buffalo Bills -122
-Los Angeles Rams 108
-Bookmaker: Betfair
-              
-Buffalo Bills -130
-Los Angeles Rams 110
+Detroit Tigers -20000
+Tampa Bay Rays 1800
 Bookmaker: Bovada
               
-     
-     
-Game: Atlanta Falcons versus New Orleans Saints
-Moneylines from All Bookmakers
-Number of Bookmakers: 16
------------------------
-Atlanta Falcons 170
-New Orleans Saints -213
-Bookmaker: Unibet
-              
-Atlanta Falcons 170
-New Orleans Saints -215
-Bookmaker: SugarHouse
-              
-Atlanta Falcons 170
-New Orleans Saints -215
-Bookmaker: Barstool Sportsbook
-              
-Atlanta Falcons 170
-New Orleans Saints -215
-Bookmaker: BetRivers
-              
-Atlanta Falcons 190
-New Orleans Saints -230
-Bookmaker: William Hill (US)
-              
-Atlanta Falcons 185
-New Orleans Saints -215
-Bookmaker: DraftKings
-              
-Atlanta Falcons 180
-New Orleans Saints -215
-Bookmaker: FanDuel
-              
-Atlanta Falcons 190
-New Orleans Saints -230
-Bookmaker: BetUS
-              
-Atlanta Falcons 200
-New Orleans Saints -235
+Detroit Tigers -1869
+Tampa Bay Rays 803
 Bookmaker: GTbets
               
-Atlanta Falcons 185
-New Orleans Saints -227
-Bookmaker: WynnBET
-              
-Atlanta Falcons 184
-New Orleans Saints -232
-Bookmaker: MyBookie.ag
-              
-Atlanta Falcons 190
-New Orleans Saints -240
-Bookmaker: PointsBet (US)
-              
-Atlanta Falcons 190
-New Orleans Saints -227
-Bookmaker: FOX Bet
-              
-Atlanta Falcons 185
-New Orleans Saints -225
+Detroit Tigers -10000
+Tampa Bay Rays 3300
 Bookmaker: BetMGM
               
-Atlanta Falcons 188
-New Orleans Saints -208
-Bookmaker: Betfair
-              
-Atlanta Falcons 190
-New Orleans Saints -230
+     
+     
+Game: Philadelphia Phillies versus Washington Nationals
+Moneylines from All Bookmakers
+Number of Bookmakers: 3
+-----------------------
+Philadelphia Phillies -20000
+Washington Nationals 1800
 Bookmaker: Bovada
               
-     
-     
-Game: Baltimore Ravens versus New York Jets
-Moneylines from All Bookmakers
-Number of Bookmakers: 16
------------------------
-Baltimore Ravens -238
-New York Jets 195
-Bookmaker: Unibet
-              
-Baltimore Ravens -240
-New York Jets 195
-Bookmaker: SugarHouse
-              
-Baltimore Ravens -240
-New York Jets 190
-Bookmaker: Barstool Sportsbook
-              
-Baltimore Ravens -240
-New York Jets 195
-Bookmaker: BetRivers
-              
-Baltimore Ravens -230
-New York Jets 190
-Bookmaker: William Hill (US)
-              
-Baltimore Ravens -230
-New York Jets 195
-Bookmaker: DraftKings
-              
-Baltimore Ravens -245
-New York Jets 198
-Bookmaker: FanDuel
-              
-Baltimore Ravens -235
-New York Jets 195
-Bookmaker: BetUS
-              
-Baltimore Ravens -235
-New York Jets 200
+Philadelphia Phillies -498
+Washington Nationals 340
 Bookmaker: GTbets
               
-Baltimore Ravens -233
-New York Jets 190
-Bookmaker: WynnBET
-              
-Baltimore Ravens -250
-New York Jets 199
-Bookmaker: MyBookie.ag
-              
-Baltimore Ravens -278
-New York Jets 230
-Bookmaker: FOX Bet
-              
-Baltimore Ravens -271
-New York Jets 220
-Bookmaker: PointsBet (US)
-              
-Baltimore Ravens -250
-New York Jets 200
+Philadelphia Phillies -10000
+Washington Nationals 3300
 Bookmaker: BetMGM
               
-Baltimore Ravens -233
-New York Jets 205
-Bookmaker: Betfair
+     
+     
+Game: Chicago White Sox versus Texas Rangers
+Moneylines from All Bookmakers
+Number of Bookmakers: 9
+-----------------------
+Chicago White Sox 1600
+Texas Rangers -7000
+Bookmaker: DraftKings
               
-Baltimore Ravens -235
-New York Jets 195
+Chicago White Sox 1000
+Texas Rangers -10000
+Bookmaker: FOX Bet
+              
+Chicago White Sox 3600
+Texas Rangers -8000
+Bookmaker: FanDuel
+              
+Chicago White Sox 1700
+Texas Rangers -10000
 Bookmaker: Bovada
               
+Chicago White Sox 1751
+Texas Rangers -10000
+Bookmaker: Circa Sports
+              
+Chicago White Sox 803
+Texas Rangers -1869
+Bookmaker: GTbets
+              
+Chicago White Sox -100000
+Texas Rangers -100000
+Bookmaker: PointsBet (US)
+              
+Chicago White Sox 2800
+Texas Rangers -10000
+Bookmaker: BetMGM
+              
+Chicago White Sox 265
+Texas Rangers -10000
+Bookmaker: Betfair
+              
      
      
-Game: Carolina Panthers versus Cleveland Browns
+Game: Oakland Athletics versus San Francisco Giants
+Moneylines from All Bookmakers
+Number of Bookmakers: 6
+-----------------------
+Oakland Athletics 1600
+San Francisco Giants -7000
+Bookmaker: DraftKings
+              
+Oakland Athletics 4600
+San Francisco Giants -8000
+Bookmaker: FanDuel
+              
+Oakland Athletics 1800
+San Francisco Giants -20000
+Bookmaker: Bovada
+              
+Oakland Athletics 359
+San Francisco Giants -562
+Bookmaker: GTbets
+              
+Oakland Athletics 3000
+San Francisco Giants -10000
+Bookmaker: BetMGM
+              
+Oakland Athletics 3100
+San Francisco Giants -10000
+Bookmaker: Betfair
+              
+     
+     
+Game: Boston Red Sox versus Kansas City Royals
 Moneylines from All Bookmakers
 Number of Bookmakers: 13
 -----------------------
-Carolina Panthers -111
-Cleveland Browns -109
-Bookmaker: Unibet
-              
-Carolina Panthers -118
-Cleveland Browns 100
-Bookmaker: FOX Bet
-              
-Carolina Panthers -110
-Cleveland Browns -110
-Bookmaker: WynnBET
-              
-Carolina Panthers -112
-Cleveland Browns -109
-Bookmaker: SugarHouse
-              
-Carolina Panthers -110
-Cleveland Browns -110
-Bookmaker: PointsBet (US)
-              
-Carolina Panthers -112
-Cleveland Browns -109
-Bookmaker: Barstool Sportsbook
-              
-Carolina Panthers -108
-Cleveland Browns -108
-Bookmaker: FanDuel
-              
-Carolina Panthers -112
-Cleveland Browns -109
-Bookmaker: BetRivers
-              
-Carolina Panthers -115
-Cleveland Browns -105
-Bookmaker: GTbets
-              
-Carolina Panthers -105
-Cleveland Browns -115
+Boston Red Sox -130
+Kansas City Royals 100
 Bookmaker: DraftKings
               
-Carolina Panthers -105
-Cleveland Browns -104
-Bookmaker: Betfair
+Boston Red Sox -154
+Kansas City Royals 110
+Bookmaker: FOX Bet
               
-Carolina Panthers -115
-Cleveland Browns -105
+Boston Red Sox -116
+Kansas City Royals -110
+Bookmaker: FanDuel
+              
+Boston Red Sox -125
+Kansas City Royals -105
 Bookmaker: Bovada
               
-Carolina Panthers -114
-Cleveland Browns -106
-Bookmaker: MyBookie.ag
+Boston Red Sox -122
+Kansas City Royals 104
+Bookmaker: Circa Sports
               
-     
-     
-Game: Chicago Bears versus San Francisco 49ers
-Moneylines from All Bookmakers
-Number of Bookmakers: 16
------------------------
-Chicago Bears 230
-San Francisco 49ers -286
-Bookmaker: Unibet
-              
-Chicago Bears 220
-San Francisco 49ers -270
-Bookmaker: FanDuel
-              
-Chicago Bears 230
-San Francisco 49ers -286
-Bookmaker: SugarHouse
-              
-Chicago Bears 225
-San Francisco 49ers -286
-Bookmaker: Barstool Sportsbook
-              
-Chicago Bears 215
-San Francisco 49ers -255
-Bookmaker: DraftKings
-              
-Chicago Bears 230
-San Francisco 49ers -286
-Bookmaker: BetRivers
-              
-Chicago Bears 230
-San Francisco 49ers -280
-Bookmaker: William Hill (US)
-              
-Chicago Bears 235
-San Francisco 49ers -275
-Bookmaker: BetUS
-              
-Chicago Bears 235
-San Francisco 49ers -280
+Boston Red Sox -121
+Kansas City Royals -105
 Bookmaker: GTbets
               
-Chicago Bears 230
-San Francisco 49ers -294
-Bookmaker: WynnBET
-              
-Chicago Bears 232
-San Francisco 49ers -300
-Bookmaker: MyBookie.ag
-              
-Chicago Bears 220
-San Francisco 49ers -276
+Boston Red Sox -121
+Kansas City Royals -110
 Bookmaker: PointsBet (US)
               
-Chicago Bears 230
-San Francisco 49ers -278
-Bookmaker: FOX Bet
-              
-Chicago Bears 220
-San Francisco 49ers -275
+Boston Red Sox -120
+Kansas City Royals -105
 Bookmaker: BetMGM
               
-Chicago Bears 220
-San Francisco 49ers -256
-Bookmaker: Betfair
+Boston Red Sox -124
+Kansas City Royals -103
+Bookmaker: SugarHouse
               
-Chicago Bears 230
-San Francisco 49ers -280
-Bookmaker: Bovada
+Boston Red Sox -124
+Kansas City Royals -103
+Bookmaker: Barstool Sportsbook
+              
+Boston Red Sox -124
+Kansas City Royals -103
+Bookmaker: TwinSpires
+              
+Boston Red Sox -123
+Kansas City Royals -102
+Bookmaker: Unibet
+              
+Boston Red Sox -112
+Kansas City Royals -111
+Bookmaker: Betfair
               

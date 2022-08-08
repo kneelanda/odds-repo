@@ -44,5 +44,5 @@ def money_lines(sport=None):
                     print("              ", file=f)
     except:
         print("Sorry, that's not a valid sport or there are no moneylines available. Please enter a major US sport and try again.")
-
+        return Error
 money_lines()

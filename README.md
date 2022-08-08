@@ -17,6 +17,10 @@ pip install -r requirements.txt
 python -m app.odds_script  
 ```
 
+### Required Variables for .env file in Local Environment
+
+API_KEY = XXXX
+
 
 ### Web App
 
@@ -38,12 +42,34 @@ Then install pytest by running this code again.
 pip install -r requirements.txt
 ```
 
-Add a new file called "odd_script_test.py" and insert the below code to run your test:
+To run tests, insert the below in your command line:
 ```
-from odds_script import money_lines
-
-def test_money_lines():
-    assert money_lines(sport="americanfootball_nfl") == None
+pytest
 ```
 
-When tests are done, make sure to push your code to Github under a new branch (include "testing" in the branch name) and create a Pull Request to see updated checks.
+### Deploying Web App to Heroku
+
+To configure the web app, ensure Brew is installed:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Install Heroku CLI: 
+
+```
+brew tap heroku/brew && brew install heroku
+```
+
+Deploying to Heroku server (if already set up and configured):
+
+```
+git push heroku main
+```
+
+Changing API key (or other env variables on server):
+
+```
+heroku config:set API_KEY= XXX
+```
+

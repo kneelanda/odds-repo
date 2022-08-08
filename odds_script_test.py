@@ -7,3 +7,6 @@ def test_money_lines():
     
     assert money_lines(sport="americanfootball_nfl") == None
     assert money_lines(sport=None) != error_message
+
+    
+   

@@ -1,19 +1,23 @@
 Moneyline for the Next 5 Games:
      
-Game 1: Home Los Angeles Rams versus Away Buffalo Bills -- Start Time in UTC: 2022-09-09T00:20:00Z
-Game 2: Home Atlanta Falcons versus Away New Orleans Saints -- Start Time in UTC: 2022-09-11T17:00:00Z
-Game 3: Home New York Jets versus Away Baltimore Ravens -- Start Time in UTC: 2022-09-11T17:00:00Z
-Game 4: Home Carolina Panthers versus Away Cleveland Browns -- Start Time in UTC: 2022-09-11T17:00:00Z
-Game 5: Home Chicago Bears versus Away San Francisco 49ers -- Start Time in UTC: 2022-09-11T17:00:00Z
+Game 1: Home Los Angeles Rams versus Away Buffalo Bills -- Event Date: 2022-09-09
+Game 2: Home Atlanta Falcons versus Away New Orleans Saints -- Event Date: 2022-09-11
+Game 3: Home New York Jets versus Away Baltimore Ravens -- Event Date: 2022-09-11
+Game 4: Home Carolina Panthers versus Away Cleveland Browns -- Event Date: 2022-09-11
+Game 5: Home Chicago Bears versus Away San Francisco 49ers -- Event Date: 2022-09-11
      
      
 Game: Buffalo Bills versus Los Angeles Rams
 Moneylines from All Bookmakers
-Number of Bookmakers: 16
+Number of Bookmakers: 18
 -----------------------
 Buffalo Bills -137
 Los Angeles Rams 112
 Bookmaker: Unibet
+              
+Buffalo Bills -139
+Los Angeles Rams 118
+Bookmaker: BetOnline.ag
               
 Buffalo Bills -126
 Los Angeles Rams 108
@@ -23,6 +27,10 @@ Buffalo Bills -137
 Los Angeles Rams 112
 Bookmaker: SugarHouse
               
+Buffalo Bills -138
+Los Angeles Rams 118
+Bookmaker: LowVig.ag
+              
 Buffalo Bills -137
 Los Angeles Rams 112
 Bookmaker: Barstool Sportsbook
@@ -35,71 +43,79 @@ Buffalo Bills -135
 Los Angeles Rams 115
 Bookmaker: William Hill (US)
               
-Buffalo Bills -135
-Los Angeles Rams 115
-Bookmaker: DraftKings
-              
 Buffalo Bills -130
 Los Angeles Rams 110
+Bookmaker: DraftKings
+              
+Buffalo Bills -135
+Los Angeles Rams 115
 Bookmaker: BetUS
               
 Buffalo Bills -130
 Los Angeles Rams 110
 Bookmaker: GTbets
               
-Buffalo Bills -120
-Los Angeles Rams 100
+Buffalo Bills -130
+Los Angeles Rams 110
 Bookmaker: WynnBET
               
-Buffalo Bills -131
-Los Angeles Rams 108
+Buffalo Bills -134
+Los Angeles Rams 110
 Bookmaker: MyBookie.ag
               
 Buffalo Bills -136
 Los Angeles Rams 115
 Bookmaker: PointsBet (US)
               
-Buffalo Bills -133
-Los Angeles Rams 115
+Buffalo Bills -139
+Los Angeles Rams 110
 Bookmaker: FOX Bet
               
 Buffalo Bills -130
 Los Angeles Rams 110
 Bookmaker: BetMGM
               
-Buffalo Bills -122
+Buffalo Bills -120
 Los Angeles Rams 108
 Bookmaker: Betfair
               
-Buffalo Bills -130
-Los Angeles Rams 110
+Buffalo Bills -135
+Los Angeles Rams 115
 Bookmaker: Bovada
               
      
      
 Game: Atlanta Falcons versus New Orleans Saints
 Moneylines from All Bookmakers
-Number of Bookmakers: 16
+Number of Bookmakers: 18
 -----------------------
-Atlanta Falcons 170
-New Orleans Saints -213
+Atlanta Falcons 180
+New Orleans Saints -227
 Bookmaker: Unibet
               
-Atlanta Falcons 170
-New Orleans Saints -215
+Atlanta Falcons 195
+New Orleans Saints -227
+Bookmaker: BetOnline.ag
+              
+Atlanta Falcons 180
+New Orleans Saints -230
 Bookmaker: SugarHouse
               
-Atlanta Falcons 170
-New Orleans Saints -215
+Atlanta Falcons 180
+New Orleans Saints -230
 Bookmaker: Barstool Sportsbook
               
-Atlanta Falcons 170
-New Orleans Saints -215
+Atlanta Falcons 180
+New Orleans Saints -230
 Bookmaker: BetRivers
               
 Atlanta Falcons 190
 New Orleans Saints -230
 Bookmaker: William Hill (US)
+              
+Atlanta Falcons 195
+New Orleans Saints -225
+Bookmaker: LowVig.ag
               
 Atlanta Falcons 185
 New Orleans Saints -215
@@ -121,8 +137,8 @@ Atlanta Falcons 185
 New Orleans Saints -227
 Bookmaker: WynnBET
               
-Atlanta Falcons 184
-New Orleans Saints -232
+Atlanta Falcons 195
+New Orleans Saints -245
 Bookmaker: MyBookie.ag
               
 Atlanta Falcons 190
@@ -130,7 +146,7 @@ New Orleans Saints -240
 Bookmaker: PointsBet (US)
               
 Atlanta Falcons 190
-New Orleans Saints -227
+New Orleans Saints -250
 Bookmaker: FOX Bet
               
 Atlanta Falcons 185
@@ -149,11 +165,15 @@ Bookmaker: Bovada
      
 Game: Baltimore Ravens versus New York Jets
 Moneylines from All Bookmakers
-Number of Bookmakers: 16
+Number of Bookmakers: 18
 -----------------------
 Baltimore Ravens -238
 New York Jets 195
 Bookmaker: Unibet
+              
+Baltimore Ravens -244
+New York Jets 200
+Bookmaker: BetOnline.ag
               
 Baltimore Ravens -240
 New York Jets 195
@@ -170,6 +190,10 @@ Bookmaker: BetRivers
 Baltimore Ravens -230
 New York Jets 190
 Bookmaker: William Hill (US)
+              
+Baltimore Ravens -240
+New York Jets 200
+Bookmaker: LowVig.ag
               
 Baltimore Ravens -230
 New York Jets 195
@@ -195,8 +219,8 @@ Baltimore Ravens -250
 New York Jets 199
 Bookmaker: MyBookie.ag
               
-Baltimore Ravens -278
-New York Jets 230
+Baltimore Ravens -303
+New York Jets 220
 Bookmaker: FOX Bet
               
 Baltimore Ravens -271
@@ -226,7 +250,7 @@ Cleveland Browns -109
 Bookmaker: Unibet
               
 Carolina Panthers -118
-Cleveland Browns 100
+Cleveland Browns -105
 Bookmaker: FOX Bet
               
 Carolina Panthers -110
@@ -277,11 +301,15 @@ Bookmaker: MyBookie.ag
      
 Game: Chicago Bears versus San Francisco 49ers
 Moneylines from All Bookmakers
-Number of Bookmakers: 16
+Number of Bookmakers: 18
 -----------------------
 Chicago Bears 230
 San Francisco 49ers -286
 Bookmaker: Unibet
+              
+Chicago Bears 220
+San Francisco 49ers -263
+Bookmaker: BetOnline.ag
               
 Chicago Bears 220
 San Francisco 49ers -270
@@ -294,6 +322,10 @@ Bookmaker: SugarHouse
 Chicago Bears 225
 San Francisco 49ers -286
 Bookmaker: Barstool Sportsbook
+              
+Chicago Bears 220
+San Francisco 49ers -260
+Bookmaker: LowVig.ag
               
 Chicago Bears 215
 San Francisco 49ers -255
@@ -312,7 +344,7 @@ San Francisco 49ers -275
 Bookmaker: BetUS
               
 Chicago Bears 235
-San Francisco 49ers -280
+San Francisco 49ers -275
 Bookmaker: GTbets
               
 Chicago Bears 230
@@ -327,7 +359,7 @@ Chicago Bears 220
 San Francisco 49ers -276
 Bookmaker: PointsBet (US)
               
-Chicago Bears 230
+Chicago Bears 210
 San Francisco 49ers -278
 Bookmaker: FOX Bet
               

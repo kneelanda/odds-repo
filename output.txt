@@ -93,8 +93,8 @@ Atlanta Falcons 180
 New Orleans Saints -227
 Bookmaker: Unibet
               
-Atlanta Falcons 195
-New Orleans Saints -227
+Atlanta Falcons 190
+New Orleans Saints -222
 Bookmaker: BetOnline.ag
               
 Atlanta Falcons 180
@@ -113,8 +113,8 @@ Atlanta Falcons 190
 New Orleans Saints -230
 Bookmaker: William Hill (US)
               
-Atlanta Falcons 195
-New Orleans Saints -225
+Atlanta Falcons 190
+New Orleans Saints -220
 Bookmaker: LowVig.ag
               
 Atlanta Falcons 185
@@ -129,8 +129,8 @@ Atlanta Falcons 190
 New Orleans Saints -230
 Bookmaker: BetUS
               
-Atlanta Falcons 200
-New Orleans Saints -235
+Atlanta Falcons 195
+New Orleans Saints -225
 Bookmaker: GTbets
               
 Atlanta Falcons 185
@@ -157,8 +157,8 @@ Atlanta Falcons 188
 New Orleans Saints -208
 Bookmaker: Betfair
               
-Atlanta Falcons 190
-New Orleans Saints -230
+Atlanta Falcons 180
+New Orleans Saints -220
 Bookmaker: Bovada
               
      
@@ -307,8 +307,8 @@ Chicago Bears 230
 San Francisco 49ers -286
 Bookmaker: Unibet
               
-Chicago Bears 220
-San Francisco 49ers -263
+Chicago Bears 225
+San Francisco 49ers -270
 Bookmaker: BetOnline.ag
               
 Chicago Bears 220
@@ -323,8 +323,8 @@ Chicago Bears 225
 San Francisco 49ers -286
 Bookmaker: Barstool Sportsbook
               
-Chicago Bears 220
-San Francisco 49ers -260
+Chicago Bears 225
+San Francisco 49ers -265
 Bookmaker: LowVig.ag
               
 Chicago Bears 215

@@ -42,15 +42,10 @@ Then install pytest by running this code again.
 pip install -r requirements.txt
 ```
 
-Add a new file called "odd_script_test.py" and insert the below code to run your test:
+To run tests, insert the below in your command line:
 ```
-from odds_script import money_lines
-
-def test_money_lines():
-    assert money_lines(sport="americanfootball_nfl") == None
+pytest
 ```
-
-When tests are done, make sure to push your code to Github under a new branch (include "testing" in the branch name) and create a Pull Request to see updated checks.
 
 ### Deploying Web App to Heroku
 

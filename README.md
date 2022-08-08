@@ -17,6 +17,10 @@ pip install -r requirements.txt
 python -m app.odds_script  
 ```
 
+### Required Variables for .env file in Local Environment
+
+API_KEY = XXXX
+
 
 ### Web App
 
@@ -47,3 +51,29 @@ def test_money_lines():
 ```
 
 When tests are done, make sure to push your code to Github under a new branch (include "testing" in the branch name) and create a Pull Request to see updated checks.
+
+### Deploying Web App to Heroku
+
+To configure the web app, ensure Brew is installed:
+
+'''
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+'''
+
+Install Heroku CLI: 
+
+'''
+brew tap heroku/brew && brew install heroku
+'''
+
+Deploying to Heroku server (if already set up and configured):
+
+'''
+git push heroku main
+'''
+
+Changing API key (or other env variables on server):
+
+'''
+heroku config:set API_KEY= XXX
+'''

@@ -21,6 +21,7 @@ python -m app.odds_script
 
 API_KEY = XXXX
 
+Note: if using a local environment, obtain an API Key from the website [Odds-API](https://the-odds-api.com/)
 
 ### Web App
 

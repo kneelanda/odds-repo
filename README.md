@@ -51,24 +51,24 @@ pytest
 
 To configure the web app, ensure Brew is installed:
 
-'''
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-'''
+```
 
 Install Heroku CLI: 
 
-'''
+```
 brew tap heroku/brew && brew install heroku
-'''
+```
 
 Deploying to Heroku server (if already set up and configured):
 
-'''
+```
 git push heroku main
-'''
+```
 
 Changing API key (or other env variables on server):
 
-'''
+```
 heroku config:set API_KEY= XXX
-'''
+```

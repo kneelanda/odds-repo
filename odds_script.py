@@ -1,3 +1,7 @@
+# This additional odds_script.py file in the route directory was created due to issues our group experienced 
+#... while incorporating pytest into the code.  Pytest wouldn't recognize the odds_script.py file within the "app" file
+#... so we created the additional ".py" file in order for our tests to pass successfully.
+
 import pandas as pd
 import requests
 import json

@@ -45,7 +45,6 @@ def money_lines(sport=None):
     except:
         print("Sorry, that's not a valid sport or there are no moneylines available. Please enter a major US sport and try again.")
 
-    
     with open('output.txt', 'r') as f:
         print(f.read())
         

@@ -48,4 +48,6 @@ def money_lines(sport=None):
     with open('output.txt', 'r') as f:
         print(f.read())
 
-money_lines()
+if __name__ == "__main__":
+    my_sport = input("Sport:")
+    money_lines(my_sport)
